@@ -1,5 +1,5 @@
 package org.example;
 
-public interface FaceValue {
+public enum FaceValue {
 
 }
